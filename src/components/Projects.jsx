@@ -3,9 +3,10 @@ import "../style/Projects.css";
 
 const projects = [
   { title: "Uttaranchal Tennis Association (UTA)", desc: "Tennis Tournament Registration Portal – Frontend (React.js)", link: "https://uttaranchal-tennis-association.vercel.app/" },
-  { title: "Portfolio", desc: "My personal profile built with React", link:"https://my-personal-portfolio-alpha-cyan.vercel.app/" },
-  { title: "Summit-Seekers", desc: "Summit-Seekers website - Frontend (React.js)", link: "https://summit-seekers-ashen.vercel.app/" },
+  { title: "Portfolio", desc: "My personal profile built with React", link: "https://my-personal-portfolio-alpha-cyan.vercel.app/" },
+  { title: "Summit-Seekers", desc: "Summit-Seekers website - Frontend (React.js)", link: "https://summit-seekers-ashen.vercel.app/" }
 ];
+
 
 export default function Projects() {
   return (
