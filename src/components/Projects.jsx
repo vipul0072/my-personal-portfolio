@@ -2,7 +2,7 @@ import React from "react";
 import "../style/Projects.css";
 
 const projects = [
-  { title: "Uttaranchal Tennis Association (UTA)", desc: "Tennis Tournament Registration Portal – Frontend (React.js)", link: "http://tenniswebsite.s3-website.ap-south-1.amazonaws.com/" },
+  { title: "Uttaranchal Tennis Association (UTA)", desc: "Tennis Tournament Registration Portal – Frontend (React.js)", link: "https://uttaranchal-tennis-association.vercel.app/" },
   { title: "Portfolio", desc: "My personal profile built with React", link:"http://localhost:3000/" }
 ];
 
