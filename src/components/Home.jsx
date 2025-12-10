@@ -1,6 +1,6 @@
 import React from "react";
 import "../style/Home.css";
-import profile from "../assets/profile.jpeg";
+import profile from "../assets/vipul.jpg";
 import resume from "../assets/resume.pdf";
 import { FaGithub, FaLinkedin, FaPhone, FaInstagram } from "react-icons/fa";
 
