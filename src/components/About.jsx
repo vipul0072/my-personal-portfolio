@@ -7,7 +7,7 @@ export default function About() {
       <h2>About Me</h2>
       <p>
         I'm a passionate frontend developer who loves building clean,
-        modern, and responsive web applications using React.js and CSS.
+        modern, and responsive web applications.
       </p>
       
       <h3>Education</h3>
