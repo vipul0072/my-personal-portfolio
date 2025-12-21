@@ -21,7 +21,7 @@
   transform: translateY(-5px);
 }
 .card-text{
-  height:250px;
+  height:150px;
 }
 .project-link {
   display: inline-block;
