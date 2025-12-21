@@ -15,8 +15,10 @@ export default function Projects() {
       <div className="project-grid">
         {projects.map((p, i) => (
           <div key={i} className="card">
-            <h3>{p.title}</h3>
+            <div className="card-text">
+              <h3>{p.title}</h3>
             <p>{p.desc}</p>
+            </div>
             {p.link && (
               <a
                 href={p.link}
